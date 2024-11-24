@@ -26,8 +26,9 @@ This is a Python-based scientific calculator built using the `Tkinter` library f
 1. Install Python from the [official website](https://www.python.org/downloads/) if not already installed.
 2. The `Tkinter` and `math` modules are included with Python, so no separate installation is needed.
 
-## Usage
-
+## Screenshots
+##![Screenshot 2024-11-24 161059](https://github.com/user-attachments/assets/9d3aabf8-d2db-4023-ac8d-f8e2ff9cb762)
+ 
 ### GUI Overview:
 
 - **Display Screen**: A large entry field at the top of the window to show the current expression and results.
