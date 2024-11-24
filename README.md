@@ -52,19 +52,6 @@ This is a Python-based scientific calculator built using the `Tkinter` library f
   - **Logarithm base 10 (`log`)**
   - **Natural Logarithm (`ln`)**
 
-## Example:
-
-1. Press `7`, `+`, `3`, and `=` to compute `7 + 3`, which will display `10` in the result area.
-2. Press `5`, `^`, `2`, and `=` to compute `5^2`, which will display `25`.
-3. Press `sqrt`, then enter a number (e.g., `25`), and it will display `5` for the square root of `25`.
-
-## License
-
-This project is open-source and licensed under the MIT License. You are free to use, modify, and distribute this code.
-
-## Author
-
-Created by [Your Name]. 
 
 ## Acknowledgements
 
